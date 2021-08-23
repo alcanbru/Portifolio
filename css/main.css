@@ -632,9 +632,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
 
      .bs-item-navigator a {
          width: 20px;
-         height: 1px;
+         height: 2px;
          display: block;
-         margin: 0 0 80px 35px;
+         margin: 0 0 70px 35px;
          background-color: #4D4C4C;
      }
 
@@ -1233,7 +1233,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
         width: 200px;
         height: 500px;
         left: 15px;
-        top: 10vh;
+        top: 18vh;
     }
 
     .bs-slider-container {
