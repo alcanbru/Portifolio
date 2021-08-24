@@ -1094,7 +1094,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
 @media only screen and (max-width: 992px) {
   .img-home{ 
     display: none !important; 
-  } 
+  }
   .bs-btn-contact {
     display: none !important;
   }
@@ -1712,8 +1712,16 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
 }
 /*tamanho da seta altura*/
 .bs-first-section {
-    height: calc(100vh - 90px);
+    height: calc(100vh - 30px);
 }
+/*Only usando para que navegadores antigos igonore.*/
+@media screen and (max-width: 992px){
+    .bs-first-section {
+    height: calc(100vh - 90px);
+    }
+}
+
+
 
 .bs-no-padding {
     padding: 0 !important;
