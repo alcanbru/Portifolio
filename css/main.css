@@ -569,7 +569,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
         right: 0;
         margin: 0 auto;
         opacity: 0;
-        animation: arrowDown 0.5s linear 0.5s infinite;
+        animation: arrowDown 1.5s linear 0.5s infinite;
     }
 
     .bs-arrow-down:before {
@@ -583,7 +583,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
         right: 0;
         margin: 0 auto;
         background-color: #000;
-        animation: lineDown 0.5s ease-out infinite;
+        animation: lineDown 1.5s ease-out infinite;
         transform-origin: top center;
     }
 
@@ -1209,7 +1209,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
     }
 
     .bs-title-xlarge {
-        font-size: 45px;
+        font-size: 100px;
     }
 
     .bs-home-presentation {
@@ -1228,12 +1228,12 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
     .bs-home-presentation .bs-btn {
         margin-left: 0;
     }
-
+/*NUMERO DISTÂNCIA*/
     .bs-portfolio-navigator {
         width: 200px;
         height: 500px;
         left: 15px;
-        top: 18vh;
+        top: 20vh;
     }
 
     .bs-slider-container {
