@@ -536,7 +536,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
         margin-left: auto;
         margin-right: auto;
     }
-
+/*Seta indicando mais conteúdo do portifolio*/
     .bs-scroll-down {
         width: 70px;
         height: 135px;
@@ -1710,9 +1710,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
 .bs-pad-left-30 {
     padding-left: 30px;
 }
-
+/*tamanho da seta altura*/
 .bs-first-section {
-    height: calc(100vh - 30px);
+    height: calc(100vh - 90px);
 }
 
 .bs-no-padding {
