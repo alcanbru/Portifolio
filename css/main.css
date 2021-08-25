@@ -838,12 +838,14 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
         position: relative;
         height: 430px;
     }
-
+/* FOTO SOBRE */
     .bs-box-img {
         width: 100%;
         position: absolute;
+        /*
         left: 0;
-        bottom: 0;
+        bottom: 0; 
+        */
     }
 
     .bs-titulo-sobre, .bs-info-sobre, .bs-premios-sobre {
@@ -1074,6 +1076,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
     /* Utilitarias */
     .bs-title-xlarge {
         font-size: 90px;
+    }
+    .bs-title-xlarge-sobre{
+        font-size: 50px;
     }
 
     .bs-title-large {
@@ -1367,8 +1372,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
     .bs-titulo-sobre {
         width: 100%;        
     }
-    .bs-titulo-sobre h1{
-        font-size: 4px;       
+    .bs-titulo-sobre h3{
+        font-size: 50px;       
     }
     .bs-info-sobre {
         width: 55%;
@@ -1379,7 +1384,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
     }
     .bs-box-img {
         width: 100%;
-        display: table;
+        
     }
 
      /* ----- 404 ------- */
@@ -1472,8 +1477,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
        width: 35px; 
     }
 
-    .bs-titulo-sobre h1{
-        font-size: 120px;       
+    .bs-titulo-sobre h3{
+        font-size: 50px;       
     }
 }
 
@@ -1775,8 +1780,14 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
 }
 
 .bs-fade-out{
-    animation: fadeOut 7s forwards ease-out;
+    animation: fadeOut 5s forwards ease-out;
 }
+@media screen and (max-width: 992px) {
+ .bs-fade-out{
+    animation: fadeOut 30s forwards ease-out;
+  }
+}
+
 
 .bs-fade-from-left{
     animation: fadeFromLeft 2s 0.7s forwards cubic-bezier(0,1.01,.32,1);
