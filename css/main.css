@@ -1103,6 +1103,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
   .bs-btn-contact {
     display: none !important;
   }
+  .bs-avatar-sobre{
+    display: none !important;
+  }
 }
 
 @media screen and (min-width: 360px){
@@ -1731,12 +1734,13 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
 .bs-no-padding {
     padding: 0 !important;
 }
-
+/*Tamanho foto*/
 .bs-img-responsive {
-    width: 100%;
-    max-width: 100%;
-    height: auto;
-    display: block;
+    width: 65%;
+    max-width: 65%;
+    position: absolute;
+    /*height: auto;*/
+    /*display: block;*/
 }
 
 .bs-page-list {
