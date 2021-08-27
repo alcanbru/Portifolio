@@ -842,6 +842,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
     .bs-box-img {
         width: 100%;
         position: absolute;
+        margin-left: 145px;
+        margin-top: 35px;
         /*
         left: 0;
         bottom: 0; 
@@ -1479,9 +1481,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
     .bs-navigator-counter:before {
        width: 35px; 
     }
-
+/*Tamanho fonte sobre*/
     .bs-titulo-sobre h3{
-        font-size: 50px;       
+        font-size: 35px;       
     }
 }
 
@@ -1533,7 +1535,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
     font-weight: 600;
     border: none;
     transition: all 0.2s ease-out;
-    text-transform: lowercase;
+    /*text-transform: lowercase;*/
     position: relative;
     text-decoration: none;
 }
@@ -1736,11 +1738,12 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
 }
 /*Tamanho foto*/
 .bs-img-responsive {
-    width: 65%;
+    width: 50%;
     max-width: 65%;
     position: absolute;
     /*height: auto;*/
     /*display: block;*/
+
 }
 
 .bs-page-list {
