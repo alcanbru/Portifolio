@@ -6,8 +6,10 @@
     -moz-osx-font-smoothing: grayscale;   
 }
 
-p, label {
+p, label,h4 {
     font-family: 'Open Sans', sans-serif;
+    text-align: justify;
+    font-weight:normal;
 }
 
 @keyframes fadeOut {
@@ -525,11 +527,11 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
     
     .bs-home-presentation h1 {
         margin-top: 60px;
-        text-align: center;
+        text-align: justify;
     }
 
     .bs-home-presentation p {
-        text-align: center;
+        text-align: justify;
     }
 
     .bs-home-presentation .bs-btn {
@@ -859,7 +861,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
 
     /*----DETALHES----*/
     .bs-hero {
-        background-image: url('../portfolio/manage-it/img/hero.png');
+        background-image: url('../pages/portfolio/img/hero.png');
         background-repeat: no-repeat;
         background-size: cover; 
         background-position: center;
@@ -923,12 +925,12 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
     .bs-post-gallery {
         display: block;
     }
-
+/**
     .bs-post-gallery .container{
         position: relative;
         top: -270px;
     }
-
+**/
     .bs-thumb-box {
         width: auto;
         display: block;
@@ -1638,7 +1640,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
 }
 
 .bs-text-center {
-    text-align: center;
+    text-align: justify;
 }
 
 .bs-bg-green {
@@ -1744,7 +1746,12 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
     position: absolute;
     /*height: auto;*/
     /*display: block;*/
-
+}
+.bs-img-portfolio {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    display: block;
 }
 
 .bs-page-list {
@@ -1837,6 +1844,16 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
 
 .blue {
     background: blue;
+}
+
+p{
+    text-align: justify;
+}
+.text-justify {
+    text-align:justify;
+}
+.text-left{
+    text-align: left;
 }
 
 /* PLUGINS OVERWRITE */
