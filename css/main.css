@@ -860,12 +860,14 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
     }
 
     /*----DETALHES----*/
+   
     .bs-hero {
         background-image: url('../pages/portfolio/img/hero.png');
         background-repeat: no-repeat;
         background-size: cover; 
         background-position: center;
-        display: block;
+        display:block;
+
     }
 
     .bs-hero h1 {
