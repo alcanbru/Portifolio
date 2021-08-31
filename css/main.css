@@ -527,7 +527,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
     
     .bs-home-presentation h1 {
         margin-top: 60px;
-        text-align: justify;
+        text-align: center;
     }
 
     .bs-home-presentation p {
@@ -1162,7 +1162,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
     }
 
     .bs-text-center-mob {
-        text-align: left;
+        text-align: center;
     }
 
     .bs-box-img {
@@ -1640,7 +1640,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
 }
 
 .bs-text-center {
-    text-align: justify;
+    text-align: center;
 }
 
 .bs-bg-green {
