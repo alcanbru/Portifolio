@@ -839,6 +839,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
     .bs-avatar-sobre {
         position: relative;
         height: 430px;
+        margin-top: -50px;
     }
 /* FOTO SOBRE */
     .bs-box-img {
@@ -1673,6 +1674,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
 .bs-mar-bottom-15 {
     margin-bottom: 15px;
 }
+.bs-mar-top-15 {
+    margin-top: 15px;
+}
 .bs-mar-left-15 {
     margin-left: 15px;
 }
@@ -1746,8 +1750,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
     width: 50%;
     max-width: 65%;
     position: absolute;
-    /*height: auto;*/
-    /*display: block;*/
+    height: auto;
+    display: block;
 }
 .bs-img-portfolio {
     width: 100%;
