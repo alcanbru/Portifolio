@@ -11,7 +11,9 @@ p, label,h4 {
     text-align: justify;
     font-weight:normal;
 }
-
+a {
+    color: inherit;
+}
 @keyframes fadeOut {
     to {
         opacity: 0;
