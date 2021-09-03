@@ -1086,6 +1086,12 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
     .bs-title-xlarge {
         font-size: 90px;
     }
+    .bs-title-sobre{
+        font-size:50px;
+    }
+    .bs-paragrafo-sobre{
+        font-size:20px;
+    }
     .bs-title-xlarge-sobre{
         font-size: 50px;
     }
