@@ -11,6 +11,7 @@ p, label,h4 {
     text-align: justify;
     font-weight:normal;
 }
+
 a {
     color: inherit;
 }
@@ -134,7 +135,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
        top: 0;
     }
 }
-
+.para {
+    line-height: 1.8;
+}
 .bs-trigger-topbar {
     width: 1px;
     height: 1px;
