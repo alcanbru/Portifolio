@@ -136,7 +136,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
     }
 }
 .para {
-    line-height: 1.8;
+    line-height: 1.5;
+    
 }
 .bs-trigger-topbar {
     width: 1px;
