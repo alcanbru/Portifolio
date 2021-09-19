@@ -1817,7 +1817,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
 }
 @media screen and (max-width: 992px) {
  .bs-fade-out{
-    animation: fadeOut 30s forwards ease-out;
+    animation: fadeOut 12s forwards ease-out;
   }
 }
 
