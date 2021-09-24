@@ -1131,6 +1131,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
   .bs-avatar-sobre{
     display: none !important;
   }
+  p{
+    font-size: 16px;
+  }
 }
 
 @media screen and (min-width: 360px){
