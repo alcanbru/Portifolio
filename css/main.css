@@ -875,7 +875,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
     /*----DETALHES----*/
    
     .bs-hero {
-        background-image: url('../pages/portfolio/img/hero.png');
+        background-image: url('../pages/portfolio/img/hero1.png');
         background-repeat: no-repeat;
         background-size: cover; 
         background-position: center;
