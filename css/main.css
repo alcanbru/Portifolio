@@ -1134,6 +1134,12 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
   p{
     font-size: 16px;
   }
+  .esp-div-menu{
+    margin-top: -80px;
+    }
+    .esp-div-card{
+    margin-top: -60px;
+    }
 }
 
 @media screen and (min-width: 360px){
@@ -1884,6 +1890,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
 .text-left{
     text-align: left;
 }
+
 
 /* PLUGINS OVERWRITE */
 [data-aos=flip-left] {
