@@ -1786,6 +1786,23 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
     height: auto;
     display: block;
 }
+.bs-img-portfolio-little {
+    width: 100%;
+    max-width: 60%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.bs-img-portfolio-grafico {
+    width: 100%;
+    max-width: 80%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
 
 .bs-page-list {
     list-style: none;
@@ -1890,7 +1907,11 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
 .text-left{
     text-align: left;
 }
-
+.tamanho-img-case{
+    width: 650px;
+    height: 650px;
+    text-align: center;
+}
 
 /* PLUGINS OVERWRITE */
 [data-aos=flip-left] {
