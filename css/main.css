@@ -1913,6 +1913,27 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
     text-align: center;
 }
 
+@media only screen and (max-width: 599px) {
+    .bs-title-medium{
+        font-size: 32px;
+    }
+    .bs-img-portfolio-little {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    }
+    .bs-img-portfolio-grafico {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    }
+    .bs-title-xlarge{
+        font-size: 70px;
+    }
+}
+
 /* PLUGINS OVERWRITE */
 [data-aos=flip-left] {
     transform: perspective(2500px) rotateY(-90deg);
