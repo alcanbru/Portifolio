@@ -1,11 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="45" height="90" viewBox="0 0 45 90">
-  <g id="Group_214" data-name="Group 214" transform="translate(-4361 -990)">
-    <rect id="Rectangle_62" data-name="Rectangle 62" width="45" height="45" transform="translate(4361 1035)" fill="#fff" opacity="0"/>
-    <rect id="Rectangle_63" data-name="Rectangle 63" width="45" height="45" transform="translate(4361 990)" fill="#fff" opacity="0"/>
-    <path id="Subtraction_1" data-name="Subtraction 1" d="M22.21,18.541H3.587a3,3,0,0,1-3-3v-12a2.994,2.994,0,0,1,.167-.989l11.714,10.11a1.132,1.132,0,0,0,.631.314,1.04,1.04,0,0,0,.608-.314L25.042,2.547a2.991,2.991,0,0,1,.169.994v12A3,3,0,0,1,22.21,18.541ZM13.082,10.32a.62.62,0,0,1-.378-.188L2.061.958A3,3,0,0,1,3.587.541H22.21A3,3,0,0,1,23.75.965l-10.27,9.167a.667.667,0,0,1-.38.187Z" transform="translate(4370.412 1003.459)"/>
-    <g id="Group_213" data-name="Group 213" transform="translate(2529.5 40.5)">
-      <line id="Line_8" data-name="Line 8" x2="13" y2="13" transform="translate(1847.5 1010.5)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="2"/>
-      <line id="Line_9" data-name="Line 9" x2="13" y2="13" transform="translate(1860.5 1010.5) rotate(90)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="2"/>
-    </g>
-  </g>
+<svg width="45" height="90" viewBox="0 0 45 90" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M31.623 32H13C12.2044 32 11.4413 31.6839 10.8787 31.1213C10.3161 30.5587 10 29.7957 10 29V17C9.99966 16.6633 10.0561 16.3289 10.167 16.011L21.881 26.121C22.0526 26.2901 22.2736 26.4001 22.512 26.435C22.7443 26.4019 22.9586 26.2913 23.12 26.121L34.455 16.006C34.5672 16.3254 34.6243 16.6615 34.624 17V29C34.624 29.3941 34.5464 29.7842 34.3955 30.1483C34.2447 30.5123 34.0237 30.8431 33.745 31.1217C33.4663 31.4003 33.1355 31.6212 32.7714 31.7719C32.4073 31.9226 32.0171 32.0001 31.623 32V32ZM22.495 23.779C22.3509 23.7625 22.2171 23.696 22.117 23.591L11.474 14.417C11.9362 14.144 12.4632 14 13 14H31.623C32.1652 13.9996 32.6974 14.1461 33.163 14.424L22.893 23.591C22.79 23.693 22.6566 23.7586 22.513 23.778L22.495 23.779Z" fill="#F8F9FB"/>
+<path d="M16 61L29 74" stroke="#F8F9FB" stroke-width="2" stroke-linecap="round"/>
+<path d="M29 61L16 74" stroke="#F8F9FB" stroke-width="2" stroke-linecap="round"/>
 </svg>
