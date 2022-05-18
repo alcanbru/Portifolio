@@ -1942,6 +1942,12 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
 .bs-white{
     background-color: #F8F9FB;
 }
+.lado {
+    float: left;
+}
+.lado1 {
+    float : right;
+}
 
 /* PLUGINS OVERWRITE */
 [data-aos=flip-left] {
