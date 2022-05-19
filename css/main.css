@@ -214,8 +214,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
 }
 
 .img-home{
-    height:200px;
-    width: 200px;
+    height:2000px;
+    width: 2000px;
 }
 
 @media screen and (min-width: 320px){
@@ -1947,6 +1947,17 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
 }
 .lado1 {
     float : right;
+}
+.btn-s{
+    
+
+}
+.div-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    min-height: 100vh;
 }
 
 /* PLUGINS OVERWRITE */
