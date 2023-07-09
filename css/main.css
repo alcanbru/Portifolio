@@ -1640,15 +1640,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
 .bs-title {
     font-family: 'Newsreader', serif;
     text-align: left;
-    /*font-family: 'Archivo', sans-serif;*/
-    /*font-family: 'Poppins', sans-serif;/*
-    /*font-family: 'Cherry Swash', cursive;*/
-    /*font-family: 'El Messiri', sans-serif;*/
-    
-    /*font-family: 'Girassol', cursive;*/
-    /*font-family: 'Dancing Script', cursive*/
-    /*font-weight: normal;*/
-    
+}
+.bs-title-home{
+    font-family: 'Newsreader', serif;
 }
 
 .bs-subtitle {
