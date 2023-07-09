@@ -819,8 +819,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
         margin-top: 130px;
     }
 
-    
-
     .bs-portfolio-list .bs-portfolio-item:nth-child(odd) .bs-portfolio-item-info .bs-btn, .bs-portfolio-list .bs-portfolio-item:nth-child(even) .bs-portfolio-item-info .bs-btn{
         float: none;
         margin: 0 auto;
@@ -1641,6 +1639,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
 
 .bs-title {
     font-family: 'Newsreader', serif;
+    text-align: left;
     /*font-family: 'Archivo', sans-serif;*/
     /*font-family: 'Poppins', sans-serif;/*
     /*font-family: 'Cherry Swash', cursive;*/
