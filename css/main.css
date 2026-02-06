@@ -1638,11 +1638,11 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
 /* CLASSES UTILITARIAS */
 
 .bs-title {
-    font-family: 'Newsreader', serif;
+    font-family: 'Dosis', sans-serif;
     text-align: left;
 }
 .bs-title-home{
-    font-family: 'Newsreader', serif;
+    font-family: 'Dosis', sans-serif;
 }
 
 .bs-subtitle {
